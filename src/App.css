@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+input.answerButton {
+  font-size: large;
+  background-color: lightgreen;
+  border-radius: .5rem;
+  border: none;
+  padding: 1rem 2rem;
+}
+
+input.start {
+  font-size: xx-large;
+  background-color: lightgreen;
+  border-radius: .5rem;
+  border: none;
+  padding: 1rem 2rem;
+}
